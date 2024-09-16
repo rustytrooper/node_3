@@ -1,0 +1,524 @@
+{
+  "docs": [
+    {
+      "id": 5354394,
+      "name": null,
+      "alternativeName": "Precious Templeton: A Pony Tale",
+      "enName": null,
+      "type": "cartoon",
+      "typeNumber": 3,
+      "year": 2021,
+      "description": "",
+      "shortDescription": null,
+      "status": null,
+      "rating": {
+        "kp": 0,
+        "imdb": 5,
+        "filmCritics": 0,
+        "russianFilmCritics": 0,
+        "await": 0
+      },
+      "votes": {
+        "kp": 7,
+        "imdb": 40,
+        "filmCritics": 0,
+        "russianFilmCritics": 0,
+        "await": 0
+      },
+      "movieLength": 4,
+      "totalSeriesLength": null,
+      "seriesLength": null,
+      "ratingMpaa": null,
+      "ageRating": null,
+      "genres": [
+        {
+          "name": "мультфильм"
+        },
+        {
+          "name": "короткометражка"
+        },
+        {
+          "name": "комедия"
+        },
+        {
+          "name": "семейный"
+        }
+      ],
+      "countries": [
+        {
+          "name": "США"
+        }
+      ],
+      "top10": null,
+      "top250": null,
+      "isSeries": false,
+      "ticketsOnSale": false,
+      "names": [],
+      "backdrop": {
+        "url": "https://image.openmoviedb.com/tmdb-images/original/djDOdbOu1zLcupn0w82GrttnHn4.jpg",
+        "previewUrl": "https://image.openmoviedb.com/tmdb-images/w500/djDOdbOu1zLcupn0w82GrttnHn4.jpg"
+      },
+      "logo": {
+        "url": null,
+        "previewUrl": null
+      }
+    },
+    {
+      "id": 6264042,
+      "name": "Хутор",
+      "alternativeName": null,
+      "type": "tv-series",
+      "typeNumber": 2,
+      "year": null,
+      "description": "Бегущий от долгов Артем встречает руководителя загадочной общины Батю. Один хочет «стереть» неудобное прошлое, а другой — исправить свои грехи и найти давно пропавшего сына. Их случайная встреча перевернет не только их жизни, но жизни всех обитателей Хутора.",
+      "shortDescription": null,
+      "status": "filming",
+      "rating": {
+        "kp": 0,
+        "imdb": 0,
+        "filmCritics": 0,
+        "russianFilmCritics": 0,
+        "await": 0
+      },
+      "votes": {
+        "kp": 0,
+        "imdb": 0,
+        "filmCritics": 0,
+        "russianFilmCritics": 0,
+        "await": 0
+      },
+      "movieLength": null,
+      "totalSeriesLength": null,
+      "seriesLength": 24,
+      "ratingMpaa": null,
+      "ageRating": null,
+      "genres": [
+        {
+          "name": "комедия"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Россия"
+        }
+      ],
+      "releaseYears": [
+        {
+          "start": null,
+          "end": null
+        }
+      ],
+      "top10": null,
+      "top250": null,
+      "isSeries": true,
+      "ticketsOnSale": false
+    },
+    {
+      "id": 379706,
+      "name": "Ниниш",
+      "alternativeName": "Niniche",
+      "enName": null,
+      "type": "movie",
+      "typeNumber": 1,
+      "year": 1925,
+      "description": null,
+      "shortDescription": null,
+      "status": null,
+      "rating": {
+        "kp": 0,
+        "imdb": 0,
+        "filmCritics": 0,
+        "russianFilmCritics": 0,
+        "await": 0
+      },
+      "votes": {
+        "kp": 1,
+        "imdb": 0,
+        "filmCritics": 0,
+        "russianFilmCritics": 0,
+        "await": 0
+      },
+      "movieLength": null,
+      "totalSeriesLength": null,
+      "seriesLength": null,
+      "ratingMpaa": null,
+      "ageRating": null,
+      "poster": {
+        "url": "https://image.openmoviedb.com/kinopoisk-images/10900341/41ff4ee2-527a-4069-9473-575eb8bb590d/orig",
+        "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/10900341/41ff4ee2-527a-4069-9473-575eb8bb590d/x1000"
+      },
+      "genres": [
+        {
+          "name": "комедия"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Германия"
+        }
+      ],
+      "top10": null,
+      "top250": null,
+      "isSeries": false,
+      "ticketsOnSale": false
+    },
+    {
+      "id": 6267717,
+      "name": "Наша Russia. 8 марта",
+      "alternativeName": null,
+      "enName": null,
+      "type": "movie",
+      "typeNumber": 1,
+      "year": null,
+      "description": "Мужчины говорят о женщинах и празднике 8 марта.",
+      "shortDescription": null,
+      "status": null,
+      "rating": {
+        "kp": 0,
+        "imdb": 0,
+        "filmCritics": 0,
+        "russianFilmCritics": 0,
+        "await": 0
+      },
+      "votes": {
+        "kp": 0,
+        "imdb": 0,
+        "filmCritics": 0,
+        "russianFilmCritics": 0,
+        "await": 0
+      },
+      "movieLength": null,
+      "totalSeriesLength": null,
+      "seriesLength": null,
+      "ratingMpaa": null,
+      "ageRating": null,
+      "genres": [
+        {
+          "name": "комедия"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Россия"
+        }
+      ],
+      "top10": null,
+      "top250": null,
+      "isSeries": false,
+      "ticketsOnSale": false
+    },
+    {
+      "id": 6265949,
+      "name": null,
+      "alternativeName": "The Great Dying",
+      "type": "tv-series",
+      "typeNumber": 2,
+      "year": 2010,
+      "description": null,
+      "shortDescription": null,
+      "status": null,
+      "rating": {
+        "kp": 0,
+        "imdb": 6,
+        "filmCritics": 0,
+        "russianFilmCritics": 0,
+        "await": 0
+      },
+      "votes": {
+        "kp": 0,
+        "imdb": 26,
+        "filmCritics": 0,
+        "russianFilmCritics": 0,
+        "await": 0
+      },
+      "movieLength": null,
+      "totalSeriesLength": null,
+      "seriesLength": null,
+      "ratingMpaa": null,
+      "ageRating": null,
+      "genres": [
+        {
+          "name": "ужасы"
+        },
+        {
+          "name": "фантастика"
+        },
+        {
+          "name": "драма"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Швеция"
+        }
+      ],
+      "releaseYears": [
+        {
+          "start": 2010,
+          "end": null
+        }
+      ],
+      "top10": null,
+      "top250": null,
+      "isSeries": true,
+      "ticketsOnSale": false
+    },
+    {
+      "id": 6266584,
+      "name": null,
+      "alternativeName": "Zombie",
+      "type": "tv-series",
+      "typeNumber": 2,
+      "year": 2016,
+      "description": null,
+      "shortDescription": null,
+      "status": null,
+      "rating": {
+        "kp": 0,
+        "imdb": 6.6,
+        "filmCritics": 0,
+        "russianFilmCritics": 0,
+        "await": 0
+      },
+      "votes": {
+        "kp": 0,
+        "imdb": 16,
+        "filmCritics": 0,
+        "russianFilmCritics": 0,
+        "await": 0
+      },
+      "movieLength": null,
+      "totalSeriesLength": null,
+      "seriesLength": null,
+      "ratingMpaa": null,
+      "ageRating": null,
+      "genres": [
+        {
+          "name": "семейный"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Швеция"
+        }
+      ],
+      "releaseYears": [
+        {
+          "start": 2016,
+          "end": null
+        }
+      ],
+      "top10": null,
+      "top250": null,
+      "isSeries": true,
+      "ticketsOnSale": false
+    },
+    {
+      "id": 6260539,
+      "name": null,
+      "alternativeName": "Debbe Dunning's Dude Ranch Roundup",
+      "type": "tv-series",
+      "typeNumber": 2,
+      "year": 2017,
+      "description": null,
+      "shortDescription": null,
+      "status": "completed",
+      "rating": {
+        "kp": 0,
+        "imdb": 8,
+        "filmCritics": 0,
+        "russianFilmCritics": 0,
+        "await": 0
+      },
+      "votes": {
+        "kp": 1,
+        "imdb": 25,
+        "filmCritics": 0,
+        "russianFilmCritics": 0,
+        "await": 0
+      },
+      "movieLength": null,
+      "totalSeriesLength": null,
+      "seriesLength": 23,
+      "ratingMpaa": null,
+      "ageRating": null,
+      "genres": [
+        {
+          "name": "приключения"
+        }
+      ],
+      "countries": [
+        {
+          "name": "США"
+        }
+      ],
+      "releaseYears": [
+        {
+          "start": 2017,
+          "end": 2021
+        }
+      ],
+      "top10": null,
+      "top250": null,
+      "isSeries": true,
+      "ticketsOnSale": false
+    },
+    {
+      "id": 6264400,
+      "name": "Государственная граница. Фильм 11. Смертельный улов",
+      "alternativeName": null,
+      "type": "tv-series",
+      "typeNumber": 2,
+      "year": 2014,
+      "description": "Белорусские пограничники задерживают нелегально перевозимый через днепровский участок груз. Но контрабандой оказывается один из похищенных на Украине противозенитных ракетных комплексов. Для разбирательства по этому делу подключается ОСАМ — Отдельная служба активных мероприятий. Для участия в расследовании украинская сторона присылает своего агента. Упустить ПЗРК нельзя, но между сторонами нет доверия.",
+      "shortDescription": null,
+      "status": "completed",
+      "rating": {
+        "kp": 0,
+        "imdb": 0,
+        "filmCritics": 0,
+        "russianFilmCritics": 0,
+        "await": 0
+      },
+      "votes": {
+        "kp": 2,
+        "imdb": 0,
+        "filmCritics": 0,
+        "russianFilmCritics": 0,
+        "await": 0
+      },
+      "movieLength": null,
+      "totalSeriesLength": null,
+      "seriesLength": 52,
+      "ratingMpaa": null,
+      "ageRating": 12,
+      "genres": [
+        {
+          "name": "драма"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Беларусь"
+        }
+      ],
+      "releaseYears": [
+        {
+          "start": 2014,
+          "end": 2014
+        }
+      ],
+      "top10": null,
+      "top250": null,
+      "isSeries": true,
+      "ticketsOnSale": false
+    },
+    {
+      "id": 6264396,
+      "name": "Государственная граница. Фильм 10. Афганский капкан",
+      "alternativeName": null,
+      "type": "tv-series",
+      "typeNumber": 2,
+      "year": 2014,
+      "description": "После распада СССР перед молодой страной встаёт вопрос защиты рубежей собственными силами. Для решения особо сложных задач по пресечению контрабанды, нелегальной эмиграции и выполнению многих других опасных операций в Беларуси формируется Отдельная служба активных мероприятий — ОСАМ. Возглавить её предстоит ветерану афганской войны Антону Пекарскому.",
+      "shortDescription": null,
+      "status": "completed",
+      "rating": {
+        "kp": 0,
+        "imdb": 0,
+        "filmCritics": 0,
+        "russianFilmCritics": 0,
+        "await": 0
+      },
+      "votes": {
+        "kp": 2,
+        "imdb": 0,
+        "filmCritics": 0,
+        "russianFilmCritics": 0,
+        "await": 0
+      },
+      "movieLength": null,
+      "totalSeriesLength": null,
+      "seriesLength": 52,
+      "ratingMpaa": null,
+      "ageRating": 12,
+      "genres": [
+        {
+          "name": "драма"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Беларусь"
+        }
+      ],
+      "releaseYears": [
+        {
+          "start": 2014,
+          "end": 2014
+        }
+      ],
+      "top10": null,
+      "top250": null,
+      "isSeries": true,
+      "ticketsOnSale": false
+    },
+    {
+      "id": 6260540,
+      "name": null,
+      "alternativeName": "Family Feud",
+      "type": "tv-series",
+      "typeNumber": 2,
+      "year": 1999,
+      "description": null,
+      "shortDescription": null,
+      "status": null,
+      "rating": {
+        "kp": 0,
+        "imdb": 6.7,
+        "filmCritics": 0,
+        "russianFilmCritics": 0,
+        "await": 0
+      },
+      "votes": {
+        "kp": 1,
+        "imdb": 4960,
+        "filmCritics": 0,
+        "russianFilmCritics": 0,
+        "await": 0
+      },
+      "movieLength": null,
+      "totalSeriesLength": null,
+      "seriesLength": 30,
+      "ratingMpaa": null,
+      "ageRating": null,
+      "genres": [
+        {
+          "name": "игра"
+        },
+        {
+          "name": "комедия"
+        }
+      ],
+      "countries": [
+        {
+          "name": "США"
+        }
+      ],
+      "releaseYears": [
+        {
+          "start": 1999,
+          "end": null
+        }
+      ],
+      "top10": null,
+      "top250": null,
+      "isSeries": true,
+      "ticketsOnSale": false
+    }
+  ],
+  "total": 1060202,
+  "limit": 10,
+  "page": 1,
+  "pages": 106021
+}
