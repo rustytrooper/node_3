@@ -54,6 +54,19 @@
     "poster": {}
   },
   {
+    "id": 12,
+    "name": " добавлено",
+    "alternativeName": "добавлено",
+    "rating": {
+      "kp": 4
+    },
+    "year": 2021,
+    "votes": {
+      "kp": 7
+    },
+    "poster": {}
+  },
+  {
     "id": 6265949,
     "name": null,
     "alternativeName": "The Great Dying",
@@ -68,7 +81,7 @@
   },
   {
     "id": 11,
-    "name": "name",
+    "name": "new light",
     "alternativeName": "Pre",
     "rating": {
       "kp": 5

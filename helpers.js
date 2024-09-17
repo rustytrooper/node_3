@@ -1,4 +1,4 @@
-function parseBody(req, cb) {
+function parseBody(req, res, cb) {
   const body = [];
   req.on('data', (chunk) => {
     body.push(chunk)
@@ -6,7 +6,7 @@ function parseBody(req, cb) {
     const data = Buffer.concat(body).toString();
     if (data) {
       const params = JSON.parse(data)
-      cb(null, params)
+      cb(null, req, res, params)
     } else {
       cb(null, null)
     }
@@ -29,7 +29,7 @@ function parseURL(url) {
 
   return {
     url: parsedUrl,
-    params: parsedParams
+    parameters: parsedParams
   }
 }
 

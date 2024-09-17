@@ -1,6 +1,6 @@
 const fs = require('fs')
 
-function createFilm(err, params) {
+function createFilm(err, req, res, params) {
   const readStream = fs.createReadStream('top10.json', 'utf-8')
 
   let data = ''
