@@ -23,6 +23,7 @@ function deleteFilm(err, req, res, params) {
       writeStream.write(newJsonObj)
 
       writeStream.end()
+      res.send(newJsonObj)
     } catch (err) {
       console.error('Ошибка при обработке данных:', err);
     }

@@ -15,19 +15,15 @@ app.get('/', function (req, res) {
 
 app.post('/api/films/create', function (req, res) {
   parseBody(req, res, createFilm)
-  res.send('success when creating film')
-
 })
 
 app.post('/api/films/update', function (req, res) {
-  parseBody(req, updateFilm)
-  res.send('success when updating film')
+  parseBody(req, res, updateFilm)
 })
 
 app.post('/api/films/delete', function (req, res) {
-  parseBody(req, function (err, params) {
-    deleteFilm(err, req, params);
-    res.send('success when deleting film');
+  parseBody(req, res, function (err, params) {
+    deleteFilm(err, req, res, params);
   });
 });
 

@@ -41,6 +41,7 @@ function updateFilm(err, req, res, params) {
       writeStream.write(newObjJson);
 
       writeStream.end();
+      res.send(updatedFilms)
     } catch (err) {
       console.error('Ошибка при обработке данных:', err);
     }

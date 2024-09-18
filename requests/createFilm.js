@@ -11,6 +11,9 @@ function createFilm(err, req, res, params) {
 
   readStream.on('end', function () {
     try {
+      if (!params.name || !params.alternativeName || !params.rating.kp || !params.year || !params.votes.kp) {
+        res.status(500).send('не хватает данных')
+      }
       const jsonFile = JSON.parse(data);
       const newFilm = {
         id: jsonFile.length + 1,
@@ -42,6 +45,7 @@ function createFilm(err, req, res, params) {
       writeStream.on('error', function (err) {
         console.error('Ошибка при записи файла:', err);
       });
+      res.send(newFilm)
     } catch (err) {
       console.error('Ошибка при обработке данных:', err);
     }

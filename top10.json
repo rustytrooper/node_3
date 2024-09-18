@@ -80,19 +80,6 @@
     "poster": {}
   },
   {
-    "id": 11,
-    "name": "new light",
-    "alternativeName": "Pre",
-    "rating": {
-      "kp": 5
-    },
-    "year": 2021,
-    "votes": {
-      "kp": 7
-    },
-    "poster": {}
-  },
-  {
     "id": 6266584,
     "name": null,
     "alternativeName": "Zombie",
@@ -102,6 +89,19 @@
     "year": 2016,
     "votes": {
       "kp": 0
+    },
+    "poster": {}
+  },
+  {
+    "id": 13,
+    "name": "демонстрации ради",
+    "alternativeName": "альтернативное название",
+    "rating": {
+      "kp": 6
+    },
+    "year": 1999,
+    "votes": {
+      "kp": 4
     },
     "poster": {}
   },
